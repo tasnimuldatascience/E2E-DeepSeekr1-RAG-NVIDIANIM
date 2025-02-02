@@ -1,0 +1,15 @@
+Metadata-Version: 2.2
+Name: RAG
+Version: 0.0.1
+Author: Tasnimul Hasan
+Author-email: tasnimuldatascience@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain_nvidia_ai_endpoints
+Requires-Dist: langchain_community
+Requires-Dist: faiss-cpu
+Requires-Dist: python-dotenv
+Requires-Dist: streamlit
+Requires-Dist: pypdf
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
