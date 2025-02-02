@@ -86,10 +86,11 @@ This will open a browser with the application.
 
 ## 📊 Screenshots
 ### **Document Similarity Search Example**
-![Document Similarity Search](images/retrivals.png)
-
 ### **Generated Answer Example**
 ![Generated Answer Example](images/sampleanswer.png)
+
+![Document Similarity Search](images/retrivals.png)
+
 
 ---
 
